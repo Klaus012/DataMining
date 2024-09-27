@@ -31,9 +31,6 @@ Advances in Data Mining:
 * MultiDimensional Scaling
 * Association Rules
 
-* Text Mining
-* Big Data Issues 
-
 Meetings
 --------
 mainly Fridays
@@ -47,12 +44,13 @@ mainly Fridays
 * 18.XI - [Part 2 - project 1] - 2 hours
 * 25.XI - 2 hours
 * 2.XII - [Part 3 - project 1] - 4 hours
-* 9.XII - [Part 1 - project 2] - 2 hours
-* 16.XII - 4 hours
-* 21.XII Wednesday [Part 2 - project 2] - 2 hours
-* 13.I - 4 hours
-* 20.I [Part 3 - project 2] - 2 hours
-* 27.I [Final test] - 4 hours
+* 9.XII - 2 hours
+* 16.XII - [Part 1 - project 2] - 4 hours
+* 21.XII Wednesday - [Part 2 - project 2] - 2 hours
+* 13.I - [Additional projects presentation], [any questions about 2nd project] - 4 hours
+* 20.I - [Final: additional project reports, presentations], [any questions about 2nd project] - 4 hours, lecture: 11_reduction.Rmd
+* 27.I - 12:30-14 [Final meeting at Copernicus Science Center http://www.kopernik.org.pl/en/ - bussiness presentations of 2nd projects] - 2 hours
+* 30.I 4:30-5:30 pm, room 556  - additional questions, grading 
 
 Projects:
 ---------
@@ -69,7 +67,9 @@ Al least 50% of the team is required to be present during the project presentati
 Grade:
 ------
 
-Final grade will be based on points from projects (each project id 15+20+25 points, different number of points for each phase of the project) and 10 home works (each home work is for 4 points), and final test 40 points.
+Final grade will be based on points from projects (each project is for 60 points, which means 15+20+25 points for each phase of the project) and 10 homeworks (each home work is for 4 points), and final test 40 points.
+
+**Instead of homeworks and final test you can do additional project, please talk with your teacher. The points for the additional project is 60.**
 
 Homeworks:
 ----------
